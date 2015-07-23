@@ -1,0 +1,9 @@
+D:\D\Xtreme Me\Apriori\Apriori\Apriori\obj\Release\Apriori.AprioriGen.resources
+D:\D\Xtreme Me\Apriori\Apriori\Apriori\obj\Release\Apriori.Charts.resources
+D:\D\Xtreme Me\Apriori\Apriori\Apriori\obj\Release\Apriori.Form1.resources
+D:\D\Xtreme Me\Apriori\Apriori\Apriori\obj\Release\Apriori.Properties.Resources.resources
+D:\D\Xtreme Me\Apriori\Apriori\Apriori\obj\Release\Apriori.Result.resources
+D:\D\Xtreme Me\Apriori\Apriori\Apriori\obj\Release\Apriori.ViewDB.resources
+D:\D\Xtreme Me\Apriori\Apriori\Apriori\obj\Release\Apriori.csproj.GenerateResource.Cache
+D:\D\Xtreme Me\Apriori\Apriori\Apriori\obj\Release\Apriori.exe
+D:\D\Xtreme Me\Apriori\Apriori\Apriori\obj\Release\Apriori.pdb

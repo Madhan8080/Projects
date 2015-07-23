@@ -1,0 +1,1 @@
+﻿select * from Books  where JAVA=1 AND DBMS=0

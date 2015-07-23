@@ -1,0 +1,11 @@
+D:\Xtreme Me\Apriori\WebService1\WebService1\bin\WebService1.dll
+D:\Xtreme Me\Apriori\WebService1\WebService1\bin\WebService1.pdb
+D:\Xtreme Me\Apriori\WebService1\WebService1\obj\Debug\WebService1.csprojResolveAssemblyReference.cache
+D:\Xtreme Me\Apriori\WebService1\WebService1\obj\Debug\WebService1.dll
+D:\Xtreme Me\Apriori\WebService1\WebService1\obj\Debug\WebService1.pdb
+D:\D\Xtreme Me\Apriori\WebService1\WebService1\bin\WebService1.dll.config
+D:\D\Xtreme Me\Apriori\WebService1\WebService1\bin\WebService1.dll
+D:\D\Xtreme Me\Apriori\WebService1\WebService1\bin\WebService1.pdb
+D:\D\Xtreme Me\Apriori\WebService1\WebService1\obj\Debug\WebService1.csprojResolveAssemblyReference.cache
+D:\D\Xtreme Me\Apriori\WebService1\WebService1\obj\Debug\WebService1.dll
+D:\D\Xtreme Me\Apriori\WebService1\WebService1\obj\Debug\WebService1.pdb
