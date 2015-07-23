@@ -1,0 +1,48 @@
+.fb-login
+{
+	background: #3C599B;
+	width:80%;
+	margin: 5px auto;
+}
+
+.fb-login:hover
+{
+	background: #3C3A85;
+	width:80%;
+	
+}
+
+.twt-login
+{
+	background: #5DCAE3;
+	width:80%;
+	margin: 5px auto;
+}
+
+.twt-login:hover
+{
+	background: #5DAFE1;
+	width:80%;
+	
+}
+
+.g-login
+{
+	
+	width:80%;
+	margin: 5px auto;
+}
+
+.g-login:hover
+{
+	
+	width:80%;
+	
+}
+
+
+.md-close:hover
+{
+	color:#fff;
+}
+
