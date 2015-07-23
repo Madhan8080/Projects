@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.semantics.com/">
+  <rdf:Description rdf:about="http://www.semantics.com/car">
+    <j.0:hasMake>
+      <rdf:Description rdf:about="http://www.semantics.com/Honda">
+        <j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/All New City">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/1204000"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/1074500"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/CHENNAI"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/895000"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/993900"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/764400"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/1011900"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/957400"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/890900"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/953000"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/833500"/>
+          </rdf:Description>
+        </j.0:hasModel>
+      </rdf:Description>
+    </j.0:hasMake>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="GPS_CRYPT.GetMessage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GPS_CRYPT"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <ListView ItemsSource="{Binding MyItems}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Title}" Style="{StaticResource PhoneTextLargeStyle}">
+         </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <ListView ItemsSource="{Binding Source={StaticResource AddressGroups}}"
+           ItemTemplate="{StaticResource AddrBookItemTemplate}">
+            <ListView.GroupStyle>
+                <GroupStyle HidesIfEmpty="True" 
+                     HeaderTemplate="{StaticResource AddrBookGroupHeaderTemplate}"/>
+            </ListView.GroupStyle>
+        </ListView>
+        <Page.Resource>
+            <CollectionViewSource x:Key="AddressGroups"
+                           IsSourceGrouped="True"/>
+        </Page.Resource>
+        <Grid>
+            <ListView ItemsSource="{Binding Source={StaticResource AddressGroups}}"
+               ItemTemplate="{StaticResource AddrBookItemTemplate}">
+                <ListView.GroupStyle>
+                    <GroupStyle HidesIfEmpty="True" HeaderTemplate="{StaticResource AddrBookGroupHeaderTemplate}"/>
+                </ListView.GroupStyle>
+            </ListView>
+        </Grid>
+
+    </Grid>
+
+</Page>

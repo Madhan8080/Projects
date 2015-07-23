@@ -1,0 +1,7 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.semantics.com/">
+  <rdf:Description rdf:about="http://www.semantics.com/car">
+    <j.0:hasMake rdf:resource="http://www.semantics.com/Honad"/>
+  </rdf:Description>
+</rdf:RDF>

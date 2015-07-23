@@ -1,0 +1,99 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.semantics.com/">
+  <rdf:Description rdf:about="http://www.semantics.com/car">
+    <j.0:hasMake>
+      <rdf:Description rdf:about="http://www.semantics.com/Chevrolet">
+        <j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/Captiva">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/2684835"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/2410213"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/Kolkata"/>
+          </rdf:Description>
+        </j.0:hasModel>
+        <j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/Beat">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/630933"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/500990"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/576107"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/550200"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/431625"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/536097"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/507579"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/465870"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/Kolkata"/>
+          </rdf:Description>
+        </j.0:hasModel>
+		<j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/Spark">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/340933"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/415780"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/429107"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/Kolkata"/>
+          </rdf:Description>
+        </j.0:hasModel>
+		<j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/Cruze">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/1640765"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/1655780"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/1757976"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/Kolkata"/>
+          </rdf:Description>
+        </j.0:hasModel>
+      </rdf:Description>
+    </j.0:hasMake>
+	<j.0:hasMake>
+      <rdf:Description rdf:about="http://www.semantics.com/Mahindra">
+        <j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/The New Generation Scorpio">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/150149"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/1339856"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/1414030"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/Kolkata"/>
+          </rdf:Description>
+        </j.0:hasModel>
+        <j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/Thar">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/497412"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/527133"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/719918"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/Kolkata"/>
+          </rdf:Description>
+        </j.0:hasModel>
+        <j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/Quanto">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/839323"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/847641"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/740296"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/699450"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/Kolkata"/>
+          </rdf:Description>
+        </j.0:hasModel>
+      </rdf:Description>
+    </j.0:hasMake>  
+	<j.0:hasMake>
+      <rdf:Description rdf:about="http://www.semantics.com/Tata">
+        <j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/Club_Class_Manza">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/783708"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/723525"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/642349"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/694001"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/655127"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/676698"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/796788"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/888682"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/Kolkata"/>
+          </rdf:Description>
+        </j.0:hasModel>
+        <j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/Aria">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/1174755"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/1312428"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/Kolkata"/>
+          </rdf:Description>
+        </j.0:hasModel>
+      </rdf:Description>
+    </j.0:hasMake>	  
+  </rdf:Description>
+</rdf:RDF>

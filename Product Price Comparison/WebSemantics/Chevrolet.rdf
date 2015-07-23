@@ -1,0 +1,30 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.semantics.com/">
+  <rdf:Description rdf:about="http://www.semantics.com/car">
+    <j.0:hasMake>
+      <rdf:Description rdf:about="http://www.semantics.com/Chevrolet">
+        <j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/Captiva">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/2784835"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/Chennai"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/2558213"/>
+          </rdf:Description>
+        </j.0:hasModel>
+        <j.0:hasModel>
+          <rdf:Description rdf:about="http://www.semantics.com/Beat">
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/639445"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/514292"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/587618"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/543711"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/427136"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/550608"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/499091"/>
+            <j.0:hasCity rdf:resource="http://www.semantics.com/Chennai"/>
+            <j.0:hasPrice rdf:resource="http://www.semantics.com/454581"/>
+          </rdf:Description>
+        </j.0:hasModel>
+      </rdf:Description>
+    </j.0:hasMake>
+  </rdf:Description>
+</rdf:RDF>
